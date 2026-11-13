@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-ollama
+langchain-groq
+langchain-community
+langgraph
+streamlit
+dotenv
+langchain_text_splitters
+langchain_chroma
+pypdf
+langchain-huggingface
+sentence-transformers
